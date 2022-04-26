@@ -116,7 +116,7 @@ def echo_all(message):
      ["Untuk mengecek data peserta Anda bisa menggunakan command /CEK_DATA_PESERTA."]],
 
     # cek data peserta
-    [r"((.*)|(.?))(dimana|bagaimana|gimana|bgmn|gmn) ((.*)|(.?))mengecek ((.*)|(.?))data ((.*)|(.?))peserta",
+    [r"((.*)|(.?))(dimana|bagaimana|gimana|bgmn|gmn) ((.*)|(.?))(mengecek|cek) ((.*)|(.?))data ((.*)|(.?))peserta",
      ["Untuk mengecek data peserta Anda bisa menggunakan command /CEK_DATA_PESERTA."]],
 
     # cek gugus

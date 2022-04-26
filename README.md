@@ -1,46 +1,12 @@
+Project KT Bu Rus Semester 5
+Disini aku sama timku buat Chatbot yang bakalan kami implementasi dalam konsep SDU 2022. Karna memang ini ini semua dah digital bos, kita butuh bot yang bisa menjawab pertanyaan dari maba eaaa.
 
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
 
-These are common Git commands used in various situations:
+Keren kan emang... Disini untuk chatbot sendiri aku putusin buat pakai AI NLTK. Kenapa? Yaa, karna kalau NLP bosen bos. NLTK jarang yang gunakan. Chatbot ini bakalan berjalan di instant messager telegram yakk. Karna saya mager_-
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+Berikut tampilan bot tugasnya
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
-
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
-
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
-
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
-
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+![Screenshot (26)](https://user-images.githubusercontent.com/72388016/165339064-87542ca5-770b-4f2c-bcea-ef10eb120eea.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/72388016/165339075-3148b0ce-37b3-46ea-b66a-98bde8ae4a1d.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/72388016/165339079-fdf0b74d-8e86-4858-9e80-6860061dbc41.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/72388016/165339083-edc2d94e-b955-408a-b037-c6fda2123887.png)

@@ -1,4 +1,4 @@
-Project KT Bu Rus Semester 5
+Project KT Bu Rus Semester 4
 Disini aku sama timku buat Chatbot yang bakalan kami implementasi dalam konsep SDU 2022. Karna memang ini ini semua dah digital bos, kita butuh bot yang bisa menjawab pertanyaan dari maba eaaa.
 
 
